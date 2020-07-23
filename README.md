@@ -1,2 +1,3 @@
 # Physics-Calculator-Functions
-Functions To help calculate some fundamental physical properties
+This project provides functions to help calculate fundamental physical properties.
+Codecademy Computer Science project in Python, part 1: Introduction to programming, Functions
